@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+streamlit
+datetime
+emoji==1.7
+urlextract
+wordcloud
+seaborn
