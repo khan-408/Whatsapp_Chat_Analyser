@@ -1,4 +1,4 @@
-# WhatsApp Chat Analyser
+# WhatsApp Chat Analyzer
 
 ## Overview
 The WhatsApp Chat Analyzer is a Python-based tool that allows you to analyze and gain insights from your WhatsApp chat messages. In this analyser you can check individual's chats as well as group chat. You can see all stats for a particular member of a group also. This README provides an overview of the project, how to use it, and important information for contributors.
