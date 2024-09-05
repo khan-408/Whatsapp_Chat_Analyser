@@ -23,3 +23,21 @@ The WhatsApp Chat Analyzer is a Python-based tool that allows you to analyze and
 - 
 ## Installation
 1. Clone this repository:
+
+```
+https://github.com/khan-408/Whatsapp_Chat_Analyser
+```
+2. Intall the Dependencies:
+```
+pip install -r requirement.txt
+```
+3. Run the Program:
+```
+streamlit run app.py
+```
+
+Now You will have an application running on your local host server, where you can upload your chat pdf file.
+
+
+
+
